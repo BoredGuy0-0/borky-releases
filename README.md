@@ -3,12 +3,12 @@
 Downloads for Borky, an Android app whose mischievous lime mascot interrupts
 excessive social media use. This repository holds release files only.
 
-## Latest: 0.1.0 (Beta)
+## Latest: 0.1.1 (Beta)
 
-- Download `borky-0.1.0.apk` from the Releases page
+- Download `borky-0.1.1.apk` from the Releases page
 - Requires Android 8.0 or newer
 - Size: 8.8 MB
-- SHA-256: `B0A1B237A912EC6594D0E774EB7904A524C6FFC4EDAE5BA64C01B56C230F7F66`
+- SHA-256: `C5E7A23960038EC129F1DEC66A9E3615E9CFD38BDD9D98DB85D961708B76FAFA`
 
 ## Permissions
 
